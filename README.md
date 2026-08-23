@@ -1,6 +1,12 @@
 # Bledar Gjata — ESS-MAI / Gjata Legacy
 
-I am **Bledar Gjata**, an independent researcher and systems builder working on **ESS-MAI**, **Gjata Collapse Law (GCL)**, negative knowledge, traceable sovereign AI, and Rust-based experimental architectures.
+I am **Bledar Gjata**, founder and systems architect at **Gjata Legacy**, working on **ESS-MAI**, **Gjata Collapse Law (GCL)**, negative knowledge, traceable sovereign AI, and Rust-based experimental architectures.
+
+## Canonical identity
+
+- **Person / Author:** Bledar Gjata
+- **Project:** ESS-MAI
+- **Organization:** Gjata Legacy
 
 ## Canonical ESS-MAI repository
 
