@@ -1,38 +1,48 @@
-# Bledar Gjata — ESS-MAI / Gjata Legacy
+# Bledar Gjata | ESS-MAI | Gjata Legacy
 
-I am **Bledar Gjata**, founder and systems architect at **Gjata Legacy**, working on **ESS-MAI**, **Gjata Collapse Law (GCL)**, negative knowledge, traceable sovereign AI, and Rust-based experimental architectures.
+[![ESS-MAI architecture: GCL authority root above bounded Light, Quantum, and Shadow roles](https://raw.githubusercontent.com/gjatalegacy-create/ESS-MAI/main/assets/ess-mai-social-preview.png)](https://github.com/gjatalegacy-create/ESS-MAI)
 
-## Canonical identity
+I am **Bledar Gjata**, author and systems architect of **ESS-MAI** at **Gjata Legacy**. My work explores Rust-based research architectures for bounded AI authority, traceable deterministic reasoning, negative knowledge, reproducible system contracts, and fail-closed behavior.
 
-- **Person / Author:** Bledar Gjata
-- **Project:** ESS-MAI
-- **Organization:** Gjata Legacy
+## Start here
 
-## Canonical ESS-MAI repository
+- [**Explore ESS-MAI — canonical repository**](https://github.com/gjatalegacy-create/ESS-MAI)  
+  Source, architecture, technical documentation, citation metadata, and public research evidence.
 
-[**ESS-MAI — Gjata Collapse Law research architecture**](https://github.com/gjatalegacy-create/ESS-MAI)
+- [**Run the executable ESS-MAI POCs**](https://github.com/gjatalegacy-create/ESS-MAI/tree/main/publications/executable-prior-art)  
+  Surgically bounded Rust/Cargo proof-of-concept capsules with disclosed source, tests, successful and failed experiments, claim boundaries, and advancement methods.
 
-ESS-MAI is an active research prototype. Its source code, technical documentation, executable POCs, Cargo build and test evidence, documented successes and failures, and prior-art materials are maintained together in the canonical repository above.
+- [**Inspect the machine-readable publication manifest**](https://github.com/gjatalegacy-create/ESS-MAI/blob/main/publications/executable-prior-art/manifest.json)  
+  Current versions, validation results, exclusions, and artifact-manifest hashes.
 
-No separate repositories are used for ESS-MAI POCs: each POC is added to and linked from the canonical project repository.
+- [**Report an independent reproduction or counterexample**](https://github.com/gjatalegacy-create/ESS-MAI/issues/new/choose)  
+  Public forms for PASS, PARTIAL, and FAIL results or for an evidence-bound research question.
 
 ## Research focus
 
-- **Gjata Collapse Law (GCL):** hierarchical, bounded authority
-- **Negative knowledge:** preserving failure and rejection as operational knowledge
-- **Sovereign AI:** traceable and governed decision architectures
-- **Light–Quantum–Shadow:** separation of coordination, reasoning, and verdict authority
-- **Rust and Cargo:** executable, reproducible proof-of-concept work
-- **Formal-methods-inspired constraints:** explicit invariants and fail-closed behavior
+- **Gjata Collapse Law (GCL):** constitutional authority that delegates and bounds subordinate system roles.
+- **Negative knowledge:** failures, exclusions, and rejected paths preserved as operational evidence.
+- **Light–Quantum–Shadow:** separation of coordination, reasoning, and verdict/persistence under GCL.
+- **Traceable deterministic reasoning:** explicit transitions, evidence-bound handoffs, and fail-closed gates.
+- **Executable prior art:** reproducible POCs that publish experimental success and failure together.
 
-## Public links
+## Evidence boundary
 
-- [ESS-MAI on GitHub](https://github.com/gjatalegacy-create/ESS-MAI)
+ESS-MAI is an active experimental research prototype, not a production system or an independent certification. A successful Cargo build establishes compilation only for the disclosed scope. Each POC states what is materialized, what fails experimentally, and what remains unresolved. The full private ESS-MAI v1.8.9 core is not included in the public POC collection.
+
+## Identity and contact
+
+- **Author / architect:** Bledar Gjata
+- **Project:** ESS-MAI
+- **Organization / affiliation:** Gjata Legacy
+- **Public contact:** [gjata@legacy.al](mailto:gjata@legacy.al)
+
+## Public references
+
 - [LinkedIn — Bledar Gjata](https://www.linkedin.com/in/bledar-gjata-1a527030b/)
-- [X — @Gjata_Legacy](https://x.com/Gjata_Legacy)
-- [Business Magazine Albania — “A jemi drejt një AI sovrane?”](https://businessmag.al/a-jemi-drejt-nje-ai-sovrane-bledar-gjata-dhe-vizioni-ambicioz-pas-ess-mai/)
+- [X — Gjata Legacy](https://x.com/Gjata_Legacy)
+- [Business Magazine Albania — published ESS-MAI profile](https://businessmag.al/a-jemi-drejt-nje-ai-sovrane-bledar-gjata-dhe-vizioni-ambicioz-pas-ess-mai/)
 - [YouTube — ESS-MAI](https://www.youtube.com/watch?v=i23jeqIwqJA)
 
----
+**Bledar Gjata · ESS-MAI · Gjata Legacy**
 
-**Bledar Gjata · Gjata Legacy · ESS-MAI**
