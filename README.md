@@ -42,6 +42,7 @@ ESS-MAI is an active experimental research prototype, not a production system or
 - [LinkedIn — Bledar Gjata](https://www.linkedin.com/in/bledar-gjata-1a527030b/)
 - [X — Gjata Legacy](https://x.com/Gjata_Legacy)
 - [Business Magazine Albania — published ESS-MAI profile](https://businessmag.al/a-jemi-drejt-nje-ai-sovrane-bledar-gjata-dhe-vizioni-ambicioz-pas-ess-mai/)
+- [ACP Albania — published ESS-MAI project coverage](https://acp.al/posts/6645/ess-mai-projekti-i-bledar-gjates-qe-synon-nje-qasje-te-re-ndaj-inteligjences-artificiale/)
 - [YouTube — ESS-MAI](https://www.youtube.com/watch?v=i23jeqIwqJA)
 
 **Bledar Gjata · ESS-MAI · Gjata Legacy**
