@@ -51,8 +51,14 @@ Open to independent reproduction, Rust review, formal-methods collaboration, and
 
 - **Author / architect:** Bledar Gjata
 - **Project:** ESS-MAI
-- **Organization / affiliation:** Gjata Legacy
+- **Organization / affiliation:** Gjata Legacy · GJATA — Governance Journey Advancing Traceable Al-bania
 - **Public contact:** [gjata@legacy.al](mailto:gjata@legacy.al)
-- **Media:** [LinkedIn](https://www.linkedin.com/in/bledar-gjata-1a527030b/) · [X](https://x.com/Gjata_Legacy) · [YouTube](https://www.youtube.com/watch?v=i23jeqIwqJA) · [Business Magazine Albania](https://businessmag.al/a-jemi-drejt-nje-ai-sovrane-bledar-gjata-dhe-vizioni-ambicioz-pas-ess-mai/) · [ACP Albania](https://acp.al/posts/6645/ess-mai-projekti-i-bledar-gjates-qe-synon-nje-qasje-te-re-ndaj-inteligjences-artificiale/)
+- **ORCID:** [0009-0003-7854-266X](https://orcid.org/0009-0003-7854-266X)
+
+## Links
+
+- **Social:** [Instagram](https://www.instagram.com/gjata_legacy/) · [Facebook — GJATA](https://www.facebook.com/gjatalegacy) · [YouTube — Gjata Legacy](https://www.youtube.com/@GjataLegacy) · [X](https://x.com/Gjata_Legacy) · [LinkedIn](https://www.linkedin.com/in/bledar-gjata-1a527030b/)
+- **Research:** [GitHub — ESS-MAI](https://github.com/gjatalegacy-create/ESS-MAI) · [Zenodo](https://doi.org/10.5281/zenodo.22074027) · [OpenAIRE](https://explore.openaire.eu/search/result?pid=10.5281%2Fzenodo.22750188) · [Hugging Face](https://huggingface.co/gjata-legacy)
+- **Media:** [Business Magazine Albania](https://businessmag.al/a-jemi-drejt-nje-ai-sovrane-bledar-gjata-dhe-vizioni-ambicioz-pas-ess-mai/) · [ACP Albania](https://acp.al/posts/6645/ess-mai-projekti-i-bledar-gjates-qe-synon-nje-qasje-te-re-ndaj-inteligjences-artificiale/) · [YouTube — ESS-MAI video](https://www.youtube.com/watch?v=i23jeqIwqJA)
 
 **Bledar Gjata · ESS-MAI · Gjata Legacy**
