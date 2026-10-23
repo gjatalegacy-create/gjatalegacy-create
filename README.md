@@ -51,7 +51,7 @@ Open to independent reproduction, Rust review, formal-methods collaboration, and
 
 - **Author / architect:** Bledar Gjata
 - **Project:** ESS-MAI
-- **Organization / affiliation:** Gjata Legacy · GJATA — Governance Journey Advancing Traceable Al-bania
+- **Research initiative / affiliation:** Gjata Legacy · GJATA — Governance Journey Advancing Traceable Al-bania
 - **Public contact:** [gjata@legacy.al](mailto:gjata@legacy.al)
 - **ORCID:** [0009-0003-7854-266X](https://orcid.org/0009-0003-7854-266X)
 
@@ -62,3 +62,13 @@ Open to independent reproduction, Rust review, formal-methods collaboration, and
 - **Media:** [Business Magazine Albania](https://businessmag.al/a-jemi-drejt-nje-ai-sovrane-bledar-gjata-dhe-vizioni-ambicioz-pas-ess-mai/) · [ACP Albania](https://acp.al/posts/6645/ess-mai-projekti-i-bledar-gjates-qe-synon-nje-qasje-te-re-ndaj-inteligjences-artificiale/) · [YouTube — ESS-MAI video](https://www.youtube.com/watch?v=i23jeqIwqJA)
 
 **Bledar Gjata · ESS-MAI · Gjata Legacy**
+
+## POC007 / AIGovern-Cyber: code and preprint
+
+- [Software archive — DOI 10.5281/zenodo.23596907](https://doi.org/10.5281/zenodo.23596907): a self-contained historical Rust reference, with twelve maintainer-executed tests and disclosed limitations.
+- [Constitutional Self-Governance in ESS-MAI — DOI 10.5281/zenodo.23597026](https://doi.org/10.5281/zenodo.23597026): the accompanying preprint; not peer reviewed or submitted to arXiv.
+- [Source and frozen release](https://github.com/gjatalegacy-create/AIGovern-Cyber-POC007/releases/tag/poc007-public-v0.1.2) · [Hugging Face artifact](https://huggingface.co/datasets/gjata-legacy/ess-mai-poc-007-aigovern-cyber) · [Paper and public project](https://gjatalegacy-create.github.io/AIGovern-Cyber-POC007/paper/).
+
+[Critical review and independent reproduction are invited](https://github.com/gjatalegacy-create/AIGovern-Cyber-POC007/blob/main/COMMUNITY_REVIEW.md). Review is voluntary; negative findings are welcome, and use does not require a favorable comment. The public reference is distinct from the larger private AIGovern-Cyber runtime.
+
+The [working method](https://github.com/gjatalegacy-create/AIGovern-Cyber-POC007/blob/main/WORKING_METHOD.md) discloses human architectural direction, Bledar Gjata's reported code and execution inspection through the shell, and AI-assisted engineering. These are distinguished from independent reviewer evidence. The collaborative organization is being formed; its organizational rules are forthcoming.
