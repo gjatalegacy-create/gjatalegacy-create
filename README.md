@@ -72,3 +72,8 @@ Open to independent reproduction, Rust review, formal-methods collaboration, and
 [Critical review and independent reproduction are invited](https://github.com/gjatalegacy-create/AIGovern-Cyber-POC007/blob/main/COMMUNITY_REVIEW.md). Review is voluntary; negative findings are welcome, and use does not require a favorable comment. The public reference is distinct from the larger private AIGovern-Cyber runtime.
 
 The [working method](https://github.com/gjatalegacy-create/AIGovern-Cyber-POC007/blob/main/WORKING_METHOD.md) discloses human architectural direction, Bledar Gjata's reported code and execution inspection through the shell, and AI-assisted engineering. These are distinguished from independent reviewer evidence. The collaborative organization is being formed; its organizational rules are forthcoming.
+
+
+## Connected public research record
+
+The [ESS-MAI / POC003-007 identity and research network](https://github.com/gjatalegacy-create/AIGovern-Cyber-POC007/blob/main/PUBLIC_NETWORK.md) links ORCID, Zenodo, GitHub, Hugging Face and the author-declared social channels. It records which review requests are published and which access or editorial enquiries are pending. Listings and accounts are not independent validation.
