@@ -77,3 +77,9 @@ The [working method](https://github.com/gjatalegacy-create/AIGovern-Cyber-POC007
 ## Connected public research record
 
 The [ESS-MAI / POC003-007 identity and research network](https://github.com/gjatalegacy-create/AIGovern-Cyber-POC007/blob/main/PUBLIC_NETWORK.md) links ORCID, Zenodo, GitHub, Hugging Face and the author-declared social channels. It records which review requests are published and which access or editorial enquiries are pending. Listings and accounts are not independent validation.
+
+## Companion UI and connected accounts
+
+[ESS-MAI UI / Nura Legacy source](https://github.com/gjatalegacy-create/ESS-MAI-UI) · [Full UI distribution and eligible data](https://huggingface.co/datasets/gjata-legacy/ess-mai-ui-nura-legacy). This is a separate interface workspace, not the private AIGovern-Cyber runtime. Publication scope and validation limits are recorded with the UI.
+
+[Public identity, publications and review routes](https://github.com/gjatalegacy-create/AIGovern-Cyber-POC007/blob/main/PUBLIC_NETWORK.md) · [ORCID](https://orcid.org/0009-0003-7854-266X) · [Hugging Face](https://huggingface.co/gjata-legacy) · [HackerNoon author profile](https://hackernoon.com/u/gjatalegacy).
